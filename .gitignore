@@ -1,0 +1,24 @@
+# chromadb local database
+my_local_db/
+
+# uploaded files
+uploaded_files/
+
+# secrets
+.streamlit/secrets.toml
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# environment variables
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
